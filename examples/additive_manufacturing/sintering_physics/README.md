@@ -163,7 +163,7 @@ python inference.py
 
 ## Data
 
-[To download the pre-processed deformation simulation data in the paper](https://drive.google.com/file/d/1vxgigx0jz81EhD97uFDZWIdnwnr9IkBp/view?usp=drive_link)
+[To download the pre-processed deformation simulation data in the paper](https://drive.google.com/drive/folders/1TRbj9vg1095aKIcr1izVfXT2DJSjb8jA?usp=drive_link)
 
 - Test data
 
