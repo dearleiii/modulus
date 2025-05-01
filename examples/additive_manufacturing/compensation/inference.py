@@ -10,9 +10,9 @@ from hydra import compose, initialize
 # from omegaconf import DictConfig, OmegaConf
 from utils import log_string, tic, toc
 
-from modulus.models.dgcnn.dgcnn_compensation import DGCNN
+from physicsnemo.models.dgcnn.dgcnn_compensation import DGCNN
 
-# from modulus.models.dgcnn.dgcnn_compensation import DGCNN_ocardo
+# from physicsnemo.models.dgcnn.dgcnn_compensation import DGCNN_ocardo
 
 
 def main():

@@ -36,7 +36,7 @@ from torch.nn.parallel import DistributedDataParallel
 from torch.utils.data.distributed import DistributedSampler
 from utils import log_string, tic, toc
 
-from modulus.models.dgcnn.dgcnn_compensation import DGCNN, DGCNN_ocardo
+from physicsnemo.models.dgcnn.dgcnn_compensation import DGCNN, DGCNN_ocardo
 
 
 def main(rank):

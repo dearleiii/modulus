@@ -125,10 +125,9 @@ Then run:
 python train.py
 ```
 
-### Access to the pre-trained model checkpoint: 
+### Access to the pre-trained model checkpoint
 
 [Download the pre-trained checkpoint in the paper](https://drive.google.com/file/d/1vxgigx0jz81EhD97uFDZWIdnwnr9IkBp/view?usp=drive_link)
-
 
 ## Visualize test result
 
@@ -225,7 +224,8 @@ for Predicting Metal Sintering Deformation](https://sensors.myu-group.co.jp/sm_p
    number={7},
    journal={Sensors and Materials},
    publisher={MYU K.K.},
-   author={Chen, Rachel (Lei) and Gan, Chuang and Lee, Juheon and Yang, Zijiang and Nabian, Mohammad Amin and Zeng, Jun},
+   author={Chen, Rachel (Lei) and Gan, Chuang and Lee, Juheon and Yang,
+   Zijiang and Nabian, Mohammad Amin and Zeng, Jun},
    year={2024},
    month=jul, pages={2835} }
 

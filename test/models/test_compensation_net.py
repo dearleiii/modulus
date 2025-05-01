@@ -19,7 +19,6 @@ import random
 import pytest
 import torch
 import torch_geometric
-
 from modulus.models.dgcnn.dgcnn_compensation import DGCNN
 
 from . import common

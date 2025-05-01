@@ -1,12 +1,10 @@
-
+<!-- markdownlint-disable -->
 
 # PyTorch version of deformation predictor & compensation
 
 ## Introduction 
 
 This work addresses shape deviation modeling and compensation in additive manufacturing (AM) to improve geometric accuracy for industrial-scale production. While traditional methods laid the groundwork, recent machine learning (ML) advancements offer better precision. However, challenges remain in generalizing across complex geometries and adapting to position-dependent variations in batch production. We introduce GraphCompNet, a novel framework combining graph-based neural networks with GAN-inspired training to model geometries and incorporate position-specific thermal and mechanical variations. Through a two-stage adversarial process, the framework refines compensated designs, improving accuracy by 35-65% across the print space. This approach enhances AM's real-time, scalable compensation capabilities, paving the way for high-precision, automated manufacturing systems.
-
-
 
 
 [//]: # (<p align="center">)

@@ -23,12 +23,11 @@ from dataclasses import dataclass
 
 import torch
 import torch.nn as nn
-import torch_geometric
 from torch.nn import Linear as Lin
 from torch.nn import Sequential as Seq
-from torch_geometric.nn import DynamicEdgeConv, EdgeConv, knn_graph
+from torch_geometric.nn import EdgeConv, knn_graph
 
-import modulus  # noqa: F401 for docs
+import physicsnemo  # noqa: F401 for docs
 
 from ..meta import ModelMetaData
 from ..module import Module
